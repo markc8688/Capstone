@@ -1,8 +1,10 @@
 # Capstone of Sensorsdata
 
+# Dataset
+
+Data is about user behaviors on the main web of Sensordata for a week length, including button clicking, account signing up, verfication code sending, video watching, and page leaving, etc.
 
 # Project Objectives
-
 Clean dirty log data and transform it for analytics.
 
 Exploratory data analysis, e.g. find user activity levels for different events, and user interaction with web components.
